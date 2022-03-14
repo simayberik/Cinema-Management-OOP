@@ -1,0 +1,9 @@
+Simay:ss:aa:20:true:true:
+AAAA:BBB:cc:10:true:true:
+qq:qq:qq:12:false:false:
+ww:ww:ww:13:false:true:
+qq:qqq:qq:13:false:true:
+sim:ay:123:20:false:true:
+ee:ee:ee:1:false:true:
+tt:tt:tt:4:false:false:
+ali:ali:ali:28:true:false:
